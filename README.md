@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Desafio 02 Rocketseat 👋</h1>
+<h1 align="center">Bem-vindo ao Desafio 02 Rocketseat 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -13,19 +13,19 @@ Para entender melhor sobre o desafio e os testes clique em:
 ### ✨ [Demo](sda)
 > A ferramenta mostrada e utilizada durante a produção foi o Insomnia.
 
-## Install
+## 👷 Install
 
 ```bash
 yarn install
 ```
 
-## Usage
+## 🏃 Usage
 
 ```bash
 yarn dev
 ```
 
-## :test_tube Run tests
+##  :test_tube: Run tests
 
 ```bash
 yarn test
