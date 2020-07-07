@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+    <img alt="Gif Demo" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
@@ -10,7 +10,9 @@
 Para entender melhor sobre o desafio e os testes clique em:
 [Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs#rocket-sobre-o-desafio)
 
-### ✨ [Demo](sda)
+### ✨ Demo
+<img alt="License: MIT" src="https://ik.imagekit.io/zedlpml9bc/bootcamp_desafio_02_rocketseat_mW9XzvmTcA.gif"/>
+
 > A ferramenta mostrada e utilizada durante a produção foi o Insomnia.
 
 ## 👷 Install
