@@ -25,7 +25,7 @@ yarn install
 yarn dev
 ```
 
-## :test_tube Run tests
+## :test_tube: Run tests
 
 ```bash
 yarn test
