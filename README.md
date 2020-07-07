@@ -7,25 +7,28 @@
 </p>
 
 > Desafio proposto pelo bootcamp, para o aprendizado de NodeJS.
+Para entender melhor sobre o desafio e os testes clique em:
+[Desafio 02](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs#rocket-sobre-o-desafio)
 
 ### ✨ [Demo](sda)
+> A ferramenta mostrada e utilizada durante a produção foi o Insomnia.
 
 ## Install
 
-```sh
+```bash
 yarn install
 ```
 
 ## Usage
 
-```sh
-sss
+```bash
+yarn dev
 ```
 
-## Run tests
+## :test_tube Run tests
 
-```sh
-yarn run test
+```bash
+yarn test
 ```
 
 ## Author
@@ -33,7 +36,7 @@ yarn run test
 👤 **Jaime Ribeiro**
 
 * Github: [@jaimeme](https://github.com/jaimeme)
-* LinkedIn: [@Jaime Ribeiro](https://linkedin.com/in/Jaime Ribeiro)
+* LinkedIn: [@Jaime Ribeiro](https://www.linkedin.com/in/jaime-ribeiro-profissional/)
 
 ## Show your support
 
